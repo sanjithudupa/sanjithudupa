@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **sanjithudupa/sanjithudupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sanjith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjithudupa)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjithudupa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithudupa&hide=g-code)](https://github.com/anuraghazra/github-readme-stats)
+
+### Cool Projects:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=bike-race-tracker)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=embroidery-digitizer)](https://github.com/anuraghazra/github-readme-stats)
+
+### Currently Working On:
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=face-animation)](https://github.com/anuraghazra/github-readme-stats)
