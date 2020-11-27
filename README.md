@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjithudupa&hide=g-code)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Cool Projects:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=bike-race-tracker)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=embroidery-digitizer)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=bike-race-tracker)](https://github.com/sanjithudupa/bike-race-tracker)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=embroidery-digitizer)](https://github.com/sanjithudupa/embroidery-digitizer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=when-pigs-fly)](https://github.com/sanjithudupa/when-pigs-fly)
 
 ### Currently Working On:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=face-animation)](https://github.com/anuraghazra/github-readme-stats)
