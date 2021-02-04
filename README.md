@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi, I'm Sanjith
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjithudupa)](https://github.com/anuraghazra/github-readme-stats)
 
