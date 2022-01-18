@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjithudupa)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 ## Check out my AR-Card Making Website: [ACardFrom.me](https://acardfrom.me)
 ### Originally made for my Dad's birthday, I've since [open-sourced](https://github.com/sanjithudupa/a-card-from-me) and made a [video](#) on how to use it.
 <b>Anyone</b> can register and create a custom Augmented Reality Card with this site. A star would be greatly appreciated!
 <img src="https://acardfrom.me/static/media/addimage.64f28c1a.gif" />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjithudupa&repo=a-card-from-me)](https://acardfrom.me)
-
+-->
 ## Check out my web framework: [Stacks](https://github.com/stacks-js)!
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stacks-js&repo=stacks)](https://github.com/stacks-js/stacks)
 
