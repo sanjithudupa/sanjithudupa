@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Sanjith
-
+<!--
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjithudupa)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!--
 ## Check out my AR-Card Making Website: [ACardFrom.me](https://acardfrom.me)
 ### Originally made for my Dad's birthday, I've since [open-sourced](https://github.com/sanjithudupa/a-card-from-me) and made a [video](#) on how to use it.
